@@ -1,7 +1,7 @@
-# Basic Javascript todo_list
+# Javascript Todo List
 
 
-## A simple todo list application 
+## A todo list application 
 
 This todo list application can add, delete and mark todo items as completed; it also utilizes local storage to persist the todo items until they are intentionally removed. 
 
